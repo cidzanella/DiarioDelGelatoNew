@@ -1,0 +1,16 @@
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\bin\Debug\net6.0\DiarioDelGelato.Application.deps.json
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\bin\Debug\net6.0\DiarioDelGelato.Application.dll
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\bin\Debug\net6.0\DiarioDelGelato.Application.pdb
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\bin\Debug\net6.0\DiarioDelGelato.Domain.dll
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\bin\Debug\net6.0\DiarioDelGelato.Domain.pdb
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\obj\Debug\net6.0\DiarioDelGelato.Application.csproj.AssemblyReference.cache
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\obj\Debug\net6.0\DiarioDelGelato.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\obj\Debug\net6.0\DiarioDelGelato.Application.AssemblyInfoInputs.cache
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\obj\Debug\net6.0\DiarioDelGelato.Application.AssemblyInfo.cs
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\obj\Debug\net6.0\DiarioDelGelato.Application.csproj.CoreCompileInputs.cache
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\obj\Debug\net6.0\DiarioDelGelato.Application.dll
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\obj\Debug\net6.0\refint\DiarioDelGelato.Application.dll
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\obj\Debug\net6.0\DiarioDelGelato.Application.pdb
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\obj\Debug\net6.0\ref\DiarioDelGelato.Application.dll
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\obj\Debug\net6.0\DiarioDelGelato.Application.sourcelink.json
+C:\90Zgit\Projects\DiarioDelGelato\Backend\DiarioDelGelato\Src\DiarioDelGelato.Application\obj\Debug\net6.0\DiarioDe.53BBCF17.Up2Date

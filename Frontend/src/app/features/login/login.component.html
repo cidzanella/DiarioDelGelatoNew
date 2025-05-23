@@ -1,0 +1,31 @@
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-12 col-md-8 col-lg-6">
+            <div class="card mt-5">
+                <div class="card-header">
+                    <h4 class="card-title text-center">Olá! Acesse sua conta</h4>
+                </div>
+                <div class="card-body">
+                    <form (ngSubmit)="onSubmit()">
+                        <!-- Username -->
+                        <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="fa fa-user"></i></span>
+                            <input type="text" class="form-control" placeholder="Usuário" [(ngModel)]="username" name="username" aria-label="Username">
+                        </div>
+                        <!-- Password  -->
+                        <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="fa fa-lock"></i></span>
+                            <input [type]="isPasswordVisible ? 'text' : 'password'" class="form-control" placeholder="Senha" [(ngModel)]="password" name="password" aria-label="Password">
+                            <button type="button" class="btn btn-link toggle-password-btn" (click)="togglePasswordVisibility()">
+                                <i class="fa" [ngClass]="{'fa-eye': isPasswordVisible, 'fa-eye-slash': !isPasswordVisible}"></i>
+                            </button>
+                        </div>
+                        <div class="d-grid gap-2">
+                            <button class="btn btn-sm btn-primary btn-block" type="submit">Confirmar</button>
+                        </div>                
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
