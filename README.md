@@ -10,12 +10,12 @@ DiarioDelGelato is a digital transformation tool for gelateria operations. It re
 
 ## 📑 Documentation
 
-- [Epics](docs/epics.md) — High-level functionalities.
-- [User Stories](docs/user_stories.md) — Functional requirements.
-- [Subtasks](docs/subtasks.md) — Technical breakdowns.
-- [Sprint Goal + DoD](docs/sprint_goal.md) — Sprint planning artifacts.
-- [Roadmap](docs/roadmap.md) — Project development roadmap.
-- [Architecture](docs/architecture.md) — Technical and system design.
+- [Epics](ProjectDocumentation/docs/epics.md)
+- [User Stories](ProjectDocumentation/docs/user_stories.md)
+- [Subtasks](ProjectDocumentation/docs/subtasks.md)
+- [Sprint Goal + DoD](ProjectDocumentation/docs/sprint_goal.md)
+- [Roadmap](ProjectDocumentation/docs/roadmap.md)
+- [Architecture](ProjectDocumentation/docs/architecture.md)
 
 ## 🏗️ Architecture
 - Frontend: Angular Web Application

@@ -18,7 +18,7 @@ This folder contains the **Product Backlog Documentation and Project Artifacts**
 - To document product decisions and technical architecture over time.
 
 ## 🔗 How to Use
-- Navigate through `/docs` for detailed information.
+- Navigate through `/ProjectDocumentation/docs` for detailed information.
 - Use this repository alongside Jira to manage day-to-day task tracking.
 - Refer to the roadmap and architecture during development discussions.
 
@@ -28,5 +28,3 @@ This folder contains the **Product Backlog Documentation and Project Artifacts**
 - Stakeholders
 - Designers
 - QA Engineers
-
----
