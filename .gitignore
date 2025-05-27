@@ -1,146 +1,34 @@
-# ========================
-# FRONTEND (Angular)
-# ========================
-Frontend/node_modules/
-Frontend/dist/
-Frontend/.angular/cache/
-Frontend/.vscode/
-
-# ========================
-# BACKEND (.NET / C#)
-# ========================
-**/[Bb]in/
-**/[Oo]bj/
-**/[Dd]ebug*/
-**/[Rr]elease*/
+# Backend - .NET
+**/bin/
+**/obj/
+**/*.user
+**/*.suo
+**/*.userosscache
+**/*.sln.docstates
 **/.vs/
 
-# Build Artifacts
-artifacts/
-BenchmarkDotNet.Artifacts/
+# Frontend - Angular
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.angular/
+Frontend/.vscode/
 
-# User-specific files
-*.user
-*.userosscache
-*.suo
-*.rsuser
-*.sln.docstates
-*.userprefs
-
-# Logs & Temp files
-*.log
-*.tlog
-*.tmp
-*.tmp_proj
-*.cache
-*.pidb
-*.svclog
-
-# Backup & History
-*.bak
-*.Backup*/
-.history/
-.localhistory/
-.vshistory/
-
-# ASP.NET Publish
-publish/
-*.publishproj
-*.azurePubxml
-*.pubxml
-
-# Paket
-.paket/
-paket-files/
-
-# NuGet
-*.nupkg
-*.snupkg
-*.nuget.props
-*.nuget.targets
-**/packages/
-!**/packages/build/
-
-# Coverage & Test Results
-*.coverage
-*.coveragexml
-TestResult.xml
-TestResults/
-coverage*.json
-coverage*.xml
-coverage*.info
-
-# Visual Studio profiler
-*.psess
-*.vsp
-*.vspx
-
-# Build Logs
-*.binlog
-*.BuildLog.*
-
-# Windows / MacOS System Files
-.DS_Store
-.AppleDouble
-Thumbs.db
-ehthumbs.db
-*.stackdump
-Desktop.ini
-$RECYCLE.BIN/
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-
-# Installer files
-*.cab
-*.msi
-*.msix
-*.msm
-*.msp
-
-# ========================
-# IDE Config
-# ========================
+# IDEs
 .vscode/
 .idea/
+.history/
+
+# Logs e temporários
+*.log
+*.tmp
+*.swp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Outros
 *.code-workspace
-
-# ========================
-# Node.js (geral)
-# ========================
-node_modules/
-
-# ========================
-# SQL / DB local
-*.mdf
-*.ldf
-*.ndf
-*.db
-
-# ========================
-# Outros específicos
-*.pfx
-*.publishsettings
-*.tss
-*.jmconfig
-*.btp.cs
-*.btm.cs
-*.odx.cs
-*.xsd.cs
-*.gpState
-*.dotCover
-.axoCover/*
-*.mm.*
-AutoTest.Net/
-OpenCover/
-ASALocalRun/
-ServiceFabricBackup/
-healthchecksdb
-
-# ========================
-# Backup Upgrade Visual Studio
-_UpgradeReport_Files/
-UpgradeLog*.XML
-UpgradeLog*.htm
-MigrationBackup/
